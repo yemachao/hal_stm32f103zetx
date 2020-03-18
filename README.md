@@ -20,11 +20,11 @@
 
 #### 开发环境
 
-![](./Doc/Linux.JPG)
+![](./Doc/Linux.png)
 
 #### Vscode插件
 
-![](./Doc/IDE.JPG)
+![](./Doc/IDE.png)
 
 #### 贡献者
 
