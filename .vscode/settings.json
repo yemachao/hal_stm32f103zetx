@@ -1,0 +1,20 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontWeight": "800",
+    "files.exclude": {
+        "**/.mxproject": true,
+        "**/*.ioc": true
+    },
+    "files.associations": {
+        "thread": "c",
+        "tftlcd.h": "c",
+        "cerrno": "c",
+        "fatfs.h": "c",
+        "ff.h": "c",
+        "ff_gen_drv.h": "c"
+    },
+    "editor.tabSize": 2,
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.fontFamily": "Monospace",
+    "debug.console.fontFamily": "Monospace"
+}
