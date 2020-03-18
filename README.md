@@ -14,7 +14,7 @@
 1.  Linux（基于 ArchLinux） 
 2.  VSCode1.40+ [下载地址](https://code.visualstudio.com/Download) 
 3.  make（ArchLinux安装make命令：sudo pacman -S make） 
-4.  gcc-arm-none-eabi [下载地址](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) (或者直接sudo paman -S arm-none-eabi-newlib arm-none-eabi-gcc arm-none-eabi-gdb)
+4.  gcc-arm-none-eabi [下载地址](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) (或者直接sudo pacman -S arm-none-eabi-newlib arm-none-eabi-gcc arm-none-eabi-gdb)
 5.  STM32CubeMX [下载地址](https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html)
 6.  STM32CubeProgrammer [下载地址](https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stm32cubeprog.html)
 
